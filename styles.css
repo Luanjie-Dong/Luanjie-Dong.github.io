@@ -1,7 +1,8 @@
 h1 {
     text-align: center;
+    background-color: grey;
 }
 
-body {
-    background-color: blue;
+html{
+    background-color: green;
 } 
