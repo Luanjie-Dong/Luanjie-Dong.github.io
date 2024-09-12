@@ -10,12 +10,14 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
 body {
-    background-image: url('../img/background.jpg'); 
+    background-image: url('../img/background.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 100%;
+    min-height: 100vh; /* Ensures the body height covers the viewport height */
+    width: 100%;
 }
