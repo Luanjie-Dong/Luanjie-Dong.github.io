@@ -1,4 +1,4 @@
 # Luanjie-Dong.github.io
 
-### Open it with: 
+### View it with: 
 https://luanjie-dong.github.io/
