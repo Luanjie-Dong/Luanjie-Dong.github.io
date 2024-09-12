@@ -1,8 +1,7 @@
 h1 {
+    padding-top: 5%;
     text-align: center;
-    background-color: grey;
+    color: white !important;
+    font-weight: 100 !important;
 }
 
-html{
-    background-color: green;
-} 
